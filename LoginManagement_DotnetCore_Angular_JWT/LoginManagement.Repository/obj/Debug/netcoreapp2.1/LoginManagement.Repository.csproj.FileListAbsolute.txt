@@ -1,0 +1,4 @@
+F:\Angular6\GitHub\LoginManagement\LoginManagement_DotnetCore_Angular_JWT\LoginManagement.Repository\obj\Debug\netcoreapp2.1\LoginManagement.Repository.csprojAssemblyReference.cache
+F:\Angular6\GitHub\LoginManagement\LoginManagement_DotnetCore_Angular_JWT\LoginManagement.Repository\obj\Debug\netcoreapp2.1\LoginManagement.Repository.csproj.CoreCompileInputs.cache
+F:\Angular6\GitHub\LoginManagement\LoginManagement_DotnetCore_Angular_JWT\LoginManagement.Repository\obj\Debug\netcoreapp2.1\LoginManagement.Repository.AssemblyInfoInputs.cache
+F:\Angular6\GitHub\LoginManagement\LoginManagement_DotnetCore_Angular_JWT\LoginManagement.Repository\obj\Debug\netcoreapp2.1\LoginManagement.Repository.AssemblyInfo.cs

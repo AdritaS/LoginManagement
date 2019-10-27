@@ -1,0 +1,9 @@
+F:\Angular6\GitHub\LoginManagement\LoginManagement_DotnetCore_Angular_JWT\LoginManagement.Data\bin\Debug\netcoreapp2.1\LoginManagement.Data.deps.json
+F:\Angular6\GitHub\LoginManagement\LoginManagement_DotnetCore_Angular_JWT\LoginManagement.Data\bin\Debug\netcoreapp2.1\LoginManagement.Data.dll
+F:\Angular6\GitHub\LoginManagement\LoginManagement_DotnetCore_Angular_JWT\LoginManagement.Data\obj\Debug\netcoreapp2.1\LoginManagement.Data.csprojAssemblyReference.cache
+F:\Angular6\GitHub\LoginManagement\LoginManagement_DotnetCore_Angular_JWT\LoginManagement.Data\obj\Debug\netcoreapp2.1\LoginManagement.Data.csproj.CoreCompileInputs.cache
+F:\Angular6\GitHub\LoginManagement\LoginManagement_DotnetCore_Angular_JWT\LoginManagement.Data\obj\Debug\netcoreapp2.1\LoginManagement.Data.AssemblyInfoInputs.cache
+F:\Angular6\GitHub\LoginManagement\LoginManagement_DotnetCore_Angular_JWT\LoginManagement.Data\obj\Debug\netcoreapp2.1\LoginManagement.Data.AssemblyInfo.cs
+F:\Angular6\GitHub\LoginManagement\LoginManagement_DotnetCore_Angular_JWT\LoginManagement.Data\bin\Debug\netcoreapp2.1\LoginManagement.Data.pdb
+F:\Angular6\GitHub\LoginManagement\LoginManagement_DotnetCore_Angular_JWT\LoginManagement.Data\obj\Debug\netcoreapp2.1\LoginManagement.Data.dll
+F:\Angular6\GitHub\LoginManagement\LoginManagement_DotnetCore_Angular_JWT\LoginManagement.Data\obj\Debug\netcoreapp2.1\LoginManagement.Data.pdb
